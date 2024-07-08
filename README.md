@@ -1,4 +1,5 @@
-## 안녕하세요, 본질에 대한 탐구를 좋아하는 Junior Backend Developer | 유수빈입니다.
+## 안녕하세요, 
+## 본질에 대한 탐구를 좋아하는 Junior Backend Developer | 유수빈입니다.
 
 </br>
 
@@ -10,5 +11,5 @@
 
 </br>
 
-###💡 배우고 싶은 기술 스택               
+###💡배우고 싶은 기술 스택               
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
